@@ -1,0 +1,7 @@
+time,         user,              from,        to,       status
+09:10:20,    chinnakkani,     banglore,   sivakasi,     booked
+09:20:30,    ganesh,          banglore,   madurai,      booked
+09:30:20,    chinnakkani,     banglore,   sivaksi,      cancelled
+10:00:00,     chinnakkani,    mumbai,     indore        booked
+11:00:00,     krati mandloi,   indore,      banglore,       booked
+13:40:09,     aryan,            dewas,      pune,       booked 

@@ -1,0 +1,3 @@
+Name: Card Type Code
+Age: Card Type Full Name
+City: Issuing Bank,Card Number,Card Holder's Name,CVV/CVV2,Issue Date,Expiry Date,Billing Date,Card PIN,Credit Limit
